@@ -11,4 +11,4 @@ Shows [`prometheus/node_exporter`](https://github.com/prometheus/node_exporter) 
 
 ## [`velero`](./velero-dashboard.json)
 
-Fixed fork of the upstream [`vmware-tanzu/velero`](https://github.com/vmware-tanzu/velero) `dashboard. See discussion at https://github.com/vmware-tanzu/velero/issues/536#issuecomment-1282477612.
+Fixed fork of the upstream [`vmware-tanzu/velero`](https://github.com/vmware-tanzu/velero) dashboard. See discussion at https://github.com/vmware-tanzu/velero/issues/536#issuecomment-1282477612.
