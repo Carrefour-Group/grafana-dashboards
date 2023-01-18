@@ -12,3 +12,7 @@ Shows [`prometheus/node_exporter`](https://github.com/prometheus/node_exporter) 
 ## [`velero`](./velero-dashboard.json)
 
 Fixed fork of the upstream [`vmware-tanzu/velero`](https://github.com/vmware-tanzu/velero) dashboard. See discussion at https://github.com/vmware-tanzu/velero/issues/536#issuecomment-1282477612.
+
+## [`ingress-nginx`](./ingress-nginx-dashboard.json)
+
+Fixed fork of the upstream [`kubernetes/ingress-nginx`](https://github.com/kubernetes/ingress-nginx) dashboard. See discussion at https://github.com/kubernetes/ingress-nginx/pull/9523.
